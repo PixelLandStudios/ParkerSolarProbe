@@ -1,0 +1,56 @@
+# Blender MTL File: 'ParkerSolarProbe.blend'
+# Material Count: 5
+
+newmtl PSP
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 8.000000 C:\\Users\\User\\Desktop\\PBR\\ParkerSolarProbe\\ParkerSolarProbe\\textures\\psp_solar_normals.png
+map_Kd C:\\Users\\User\\Desktop\\PBR\\ParkerSolarProbe\\ParkerSolarProbe\\textures\\PSP_Diff.png
+map_Ks C:\\Users\\User\\Desktop\\PBR\\ParkerSolarProbe\\ParkerSolarProbe\\textures\\PSP_Spec.png
+
+newmtl base_metal
+Ns 374.950391
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.658175 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl black_matte
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl foil_antenna
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.643260 0.643260 0.643260
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl foil_silver
+Ns 440.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.650525 0.650525 0.650525
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 6.000000 C:\\Users\\User\\Desktop\\PBR\\ParkerSolarProbe\\ParkerSolarProbe\\textures\\foil_n.png
