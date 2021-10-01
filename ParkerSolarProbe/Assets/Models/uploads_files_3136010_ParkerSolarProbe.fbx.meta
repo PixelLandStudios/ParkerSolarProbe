@@ -3,7 +3,32 @@ guid: c83c29963dda59d4a86e3cab9f9c4e37
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PSP
+    second: {fileID: 2100000, guid: 91876eb30446420448ef01822745676d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base metal
+    second: {fileID: 2100000, guid: 7337378df20d2224798a824c513eafa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black matte
+    second: {fileID: 2100000, guid: 0342d3d3252eff044ad9f9fea7c25841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foil_antenna
+    second: {fileID: 2100000, guid: 236805a097154404c9c06b3359c87d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foil_silver
+    second: {fileID: 2100000, guid: 169168545c70ddf4ba0145d5f96f31a4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
