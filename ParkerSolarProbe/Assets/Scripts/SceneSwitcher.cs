@@ -8,17 +8,17 @@ public class SceneSwitcher : MonoBehaviour
 
     public void MenuScene()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("");
     }
 
     public void ParkerScene()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene("ParkerSolarProbeScene");
     }
 
     public void OtherScene()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene("SunProbesScene");
     }
 
 }
