@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: a2b9cab02adb27843b4a170d3dfb608d
+  - enabled: 1
+    path: Assets/Scenes/ParkerSolarProbeScene.unity
+    guid: baa38f92cb702ed4ea6911a86c098bc3
+  - enabled: 1
+    path: Assets/Scenes/SunProbesScene.unity
+    guid: ab5757bef1d814b43a51b1d3e9faa3aa
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a00f3e7fda0d65d4a9856881855220d7, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f828692279948394cb3e69d06e909308, type: 2}
