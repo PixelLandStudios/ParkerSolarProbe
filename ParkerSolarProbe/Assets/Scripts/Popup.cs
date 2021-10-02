@@ -8,11 +8,11 @@ public class Popup : MonoBehaviour
 
     public void Move()
     {
-        PopUpScreen.transform.position = new Vector3(550, 250, 0);
+        PopUpScreen.GetComponent<RectTransform>().anchoredPosition = new Vector2(0, 550);
     }
 
     public void Remove()
     {
-        PopUpScreen.transform.position = new Vector3(13000, 12000, 0);
+        PopUpScreen.GetComponent<RectTransform>().anchoredPosition = new Vector2(13000, 12000);
     }
 }
