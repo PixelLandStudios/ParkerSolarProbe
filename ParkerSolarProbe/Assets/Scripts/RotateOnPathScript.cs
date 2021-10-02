@@ -42,8 +42,8 @@ public class RotateOnPathScript : MonoBehaviour
         //transform.position = new Vector3(0f + (10f * MCos(alpha) * MCos(tilt)) - (5f * MSin(alpha) * MSin(tilt)), 0,
         //                             0f + (10f * MCos(alpha) * MSin(tilt)) + (5f * MSin(alpha) * MCos(tilt)));
 
-        transform.position = new Vector3(0f + (5f * MCos(alpha) * MCos(tilt)) - (2.5f * MSin(alpha) * MSin(tilt)), 0,
-                                     0f + (5f * MCos(alpha) * MSin(tilt)) + (2.5f * MSin(alpha) * MCos(tilt)));
+        transform.position = new Vector3(0f + (0.5f * MCos(alpha) * MCos(tilt)) - (0.25f * MSin(alpha) * MSin(tilt)), 0,
+                                     0f + (0.5f * MCos(alpha) * MSin(tilt)) + (0.25f * MSin(alpha) * MCos(tilt)));
         alpha += 0.08f;
     }
 

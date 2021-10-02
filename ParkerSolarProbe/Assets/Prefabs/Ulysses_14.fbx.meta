@@ -3,7 +3,62 @@ guid: ee32dee964dc66f4a80760b44db94f0e
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_dish
+    second: {fileID: 2100000, guid: d1ccc2ed33f21b84dbcd823f97072ad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AO_other
+    second: {fileID: 2100000, guid: 61809d53ca71554478ec7e1585730624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foil_gold
+    second: {fileID: 2100000, guid: 14b7312f13f537347bb816cddd7e462d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foil_silver
+    second: {fileID: 2100000, guid: b5a4174f4ab056f408af2728191190e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: krinkle_black
+    second: {fileID: 2100000, guid: e262b0eefe6e60a4e9c7462716c0a882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_01
+    second: {fileID: 2100000, guid: 1f3d94e6ecff3904a87f1aa95a851816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_02
+    second: {fileID: 2100000, guid: 698732a30fb3cfe4aba54e7d23cadc3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_03
+    second: {fileID: 2100000, guid: 447f430ac6bc6aa4e803a964f00cc6b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_black
+    second: {fileID: 2100000, guid: 05833b39c97c97341ac79f9efa177b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_darkblue
+    second: {fileID: 2100000, guid: 0283a6d395aaf784289aaac57e728912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tex_grey
+    second: {fileID: 2100000, guid: 787d790ce46ee71459edbc88f67b7862, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
