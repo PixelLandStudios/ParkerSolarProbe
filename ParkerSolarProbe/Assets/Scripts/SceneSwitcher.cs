@@ -8,7 +8,7 @@ public class SceneSwitcher : MonoBehaviour
 
     public void MenuScene()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("MenuScene");
     }
 
     public void ParkerScene()
